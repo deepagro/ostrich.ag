@@ -5,8 +5,13 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Ostrich.ag
+          <strong>
+            Ostrich
+          </strong>
         </p>
+        <small>
+          SaaS meets AgTech
+        </small>
       </header>
     </div>
   );
