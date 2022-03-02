@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: 'Cabin', sans-serif;
 }
 
 .App-logo {
@@ -14,7 +15,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: black;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -32,7 +33,17 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+footer {
+  position: fixed;
+  padding: 0px 20px 20px 0px;
+  bottom: 0;
+  width: 100%;
+  background: transparent;
+  text-align: right;
 }
