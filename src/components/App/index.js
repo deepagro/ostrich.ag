@@ -13,7 +13,7 @@ function App() {
         </h3>
 
         <small>
-          Designed by <a href="https://deepagro.com" target="_blank" style={{ color: "#175836", textDecoration: "none" }}>
+          Designed by <a href="https://deepagro.com" target="_blank" rel="noreferrer" style={{ color: "#175836", textDecoration: "none" }}>
             DeepAgro
           </a>
         </small>
