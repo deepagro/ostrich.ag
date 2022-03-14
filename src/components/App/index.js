@@ -1,5 +1,6 @@
 import '../../public/styles.css';
 import ostrichLogo from '../../public/imgs/logos/ostrich.png';
+import { Envelope } from 'react-bootstrap-icons';
 
 function App() {
   return (
@@ -15,6 +16,12 @@ function App() {
         <small>
           Designed by <a href="https://deepagro.com" target="_blank" rel="noreferrer" style={{ color: "#175836", textDecoration: "none" }}>
             DeepAgro
+          </a>
+        </small>
+
+        <small>
+          <a href="mailto:ostrich@deepagro.com.ar" target="_blank" rel="noreferrer" style={{ color: "white", textDecoration: "none" }}>
+            <Envelope color='white' size={65} className="email" />
           </a>
         </small>
       </header>
