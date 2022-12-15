@@ -24,6 +24,8 @@ function App() {
           </a>
         </small>
 
+        <small>(Soon)</small>
+
         <small>
           <a
             href="mailto:ostrich@deepagro.com.ar"
