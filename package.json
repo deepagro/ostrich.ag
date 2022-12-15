@@ -16,8 +16,11 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "pretty": "prettier --write \"./**/*.{js,jsx,json}\"",
+    "pretty-check": "prettier --check \"./**/*.{js,jsx,json}\"",
+    "sort-imports": "import-sort --write \"./**/*.{js,jsx}\"",
+    "sort-imports-check": "import-sort -l \"./**/*.{js,jsx}\""
   },
   "eslintConfig": {
     "extends": [
@@ -37,5 +40,9 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "."
+  "homepage": ".",
+  "devDependencies": {
+    "import-sort-cli": "^6.0.0",
+    "prettier": "^2.8.1"
+  }
 }
