@@ -1,6 +1,7 @@
 import "../../public/styles.css";
 
-import { Envelope } from "react-bootstrap-icons";
+import { Envelope, FileCode } from "react-bootstrap-icons";
+
 import ostrichLogo from "../../public/imgs/logos/ostrich.png";
 
 function App() {
@@ -25,6 +26,16 @@ function App() {
         </small>
 
         <small>(Soon)</small>
+
+        <hr></hr>
+
+        <a
+          href="https://docs.ostrich.ag"
+          class="btn btn-outline-light btn-sm"
+          role="button"
+        >
+          <FileCode></FileCode> Docs
+        </a>
 
         <small>
           <a
