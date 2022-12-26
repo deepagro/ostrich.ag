@@ -1,3 +1,5 @@
+[![CI](https://github.com/deepagro/ostrich.ag/actions/workflows/integrate.yml/badge.svg)](https://github.com/deepagro/ostrich.ag/actions/workflows/integrate.yml)
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9719010e-b882-40f6-8a74-b9ce1a5eb602/deploy-status)](https://app.netlify.com/sites/infallible-clarke-125f1c/deploys)
 
 # Ostrich.ag
