@@ -17,8 +17,8 @@ function App() {
           <h3 className="display-6">
             Experiment with our repository of more than{" "}
             <strong style={{ color: "#175836" }}>2M</strong> of{" "}
-            <strong style={{ color: "#175836" }}>HD</strong> and rich{" "}
-            <strong style={{ color: "#175836" }}>annotated</strong> field{" "}
+            <strong style={{ color: "#175836" }}>HD</strong> and{" "}
+            <strong style={{ color: "#175836" }}>rich-annotated</strong> field{" "}
             <strong style={{ color: "#175836" }}>images</strong> across LATAM
           </h3>
 
