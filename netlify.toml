@@ -1,0 +1,11 @@
+[[redirects]]
+  from = "http://echidna.ostrich.ag/*"
+  to = "https://a68f-191-232-78-1.ngrok-free.app/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://echidna.ostrich.ag/*"
+  to = "https://a68f-191-232-78-1.ngrok-free.app/:splat"
+  status = 301
+  force = true
