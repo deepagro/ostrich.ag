@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/x/*"
+  to = "https://a68f-191-232-78-1.ngrok-free.app/:splat"
+  status = 301
